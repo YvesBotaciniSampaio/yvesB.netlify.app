@@ -3,6 +3,7 @@ title = "Simple eigene Webseite erstellt!"
 date = "2022-08-23"
 draft = false
 pinned = false
+image = "laden.png"
 description = "Ich habe zusammen mit einem Kollegen einen Blumenladen auf Carrd.co erstellt."
 +++
 ## Yves' und Luca's Blumenladen
