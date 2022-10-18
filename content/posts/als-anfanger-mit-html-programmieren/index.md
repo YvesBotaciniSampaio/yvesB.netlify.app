@@ -1,5 +1,5 @@
 +++
-title = "Als Anfänger mit html programmieren!"
+title = "Mein Wiedertreffen mit HTML! 😮"
 date = "2022-10-18"
 draft = false
 pinned = false
@@ -12,8 +12,8 @@ Ich habe vor ein paar Jahren in der Schule ein Jahr lang ein Programmierkurs gem
 
 **Programmiersprachen**
 
-Für diese, die nichts mit programmieren anfangen können erkläre ich noch kurz was html, css, java usw. ist. Diese sind nämlich die Programmiersprachen, das heisst, es sind Sprachen, die der Computer verstehen kann und somit deine Befehle ausführen kann. Die meist benutzte Programmiersprache ist Python sie ist auch gar nicht so schwer zu lernen.
+Für diese, die nichts mit programmieren anfangen können erkläre ich noch kurz was HTML, CSS, Java usw. ist. Diese sind nämlich die Programmiersprachen, das heisst, es sind Sprachen, die der Computer verstehen kann und somit deine Befehle ausführen kann. Die meist benutzte Programmiersprache ist Python sie ist auch gar nicht so schwer zu lernen.
 
 **Mein wiedertreffen mit html**
 
-Wir haben dieses Mal fürs Programmieren "Visual Studio Code" gebraucht. Das ist ein Programmierprogramm, welches einem die Arbeit erleichtert. Ausserdem bekamen wir eine Anleitung von der Lehrperson, die uns Schrittweise erklärte wie man am Anfang mit html umgeht.
+Wir haben dieses Mal fürs Programmieren "Visual Studio Code" gebraucht. Das ist ein Programmierprogramm, welches einem die Arbeit erleichtert. Ausserdem bekamen wir eine Anleitung von der Lehrperson, die uns Schrittweise erklärte wie man am Anfang mit html umgeht. Ich folgte also die Anleitung meiner Lehrperson und da ich schon ein Bisschen Erfahrung mit HTML habe fiel der Anfang mir sehr leicht. Ich hatte nur ein wenig Mühe mit dem Programmierprogramm, da ich überfordert war. Aber mit der Hilfe der Anleitung und meiner Erfahrung schaffte ich es eine Webseite mit ein wenig Text zu machen. Es ist also noch lange nichts überragendes, aber für den ersten Tag bin ich froh, dass ich die Grundlagen wieder gelernt habe. Ich freue mich auf die nächsten Lektionen um meine Programmier-Skills viel zu verbessern.
