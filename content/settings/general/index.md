@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Yves Botacini's Lernblogs"
-description = "BWD Bern"
+description = "Blogeinträge WEB"
 footerLeft = ""
 footerRight = ""
 +++
