@@ -20,4 +20,8 @@ Wenn man KPI's bestimmt ist es sehr wichtig, dass man **Vanity Metrics** vermeid
 
 KPI's können also sehr vielseitig sein und man sollte sich immer hinterfragen was die KPI's wirklich bringen. Sie können, aber auch sehr hilfreich sein und ein Geschäftsmodell verbesssern und optimieren.
 
-Inspiration: https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s
+![](sch.png)
+
+Inspiration:[ ](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)[https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)
+
+[](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)
