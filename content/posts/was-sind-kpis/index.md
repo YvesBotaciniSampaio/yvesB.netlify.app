@@ -22,6 +22,6 @@ KPI's können also sehr vielseitig sein und man sollte sich immer hinterfragen w
 
 ![](sch.png)
 
-Inspiration:[ ](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)[https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)
+Inspiration:[](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>) <https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>
 
 [](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>)
