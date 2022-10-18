@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "kpi.jpg"
 description = "Was sind KPI's und was haben diese mit dem Erfolg von einem Unternehmen zu tun?"
-footnotes = "Inspiration:[](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>) <https://youtu.be/7qs1Gm1FpMo>"
+footnotes = "Inspiration:[](< https://www.youtube.com/watch?v=7qs1Gm1FpMo&t=208s>) <https://youtu.be/7qs1Gm1FpMo>\n\nBild Frau mit Geld: https://www.rundschau-online.de/ratgeber/verbraucher/geld/zu-emotional-was-wir-alle-beim-geld-ausgeben-falsch-machen-31757884?cb=1666100503126&\n\nBild Mann vor Spiegel: https://blog.planview.com/why-vanity-metrics-are-dangerous-holding-a-mirror-up-to-your-measures-of-success/"
 +++
 Unter KPI versteht man Key performance Indicator. Das heisst es sind die Leistungskennzahlen, die die Leistung von Aktivitäten im Unternehmen bestimmen, also ob es ein Erfolg oder ein Misserfolg ist. Je nach Art und Ziele des Unternehmen können diese aber stark variieren. Man braucht also Kennzahlen, die bestimmte Abläufe und Vorgänge erfassen, diese analysiert man und verbessert diese Prozesse. Nach welchen Kriterien werden nun diese Kennzahlen aufgestellt?
 
