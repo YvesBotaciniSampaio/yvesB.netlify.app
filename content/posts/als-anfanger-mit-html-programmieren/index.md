@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "html-rcm1024x512.jpg"
 description = "Ich habe seit einer langer Zeit wieder mal versucht mit html zu programmieren!"
+footnotes = "Bild html: https://www.giga.de/artikel/einfacher-als-es-scheint--j97hvrmx29"
 +++
 **Vorherige Erfahrung**
 
