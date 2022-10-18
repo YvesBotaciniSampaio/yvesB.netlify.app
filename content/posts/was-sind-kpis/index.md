@@ -6,8 +6,6 @@ pinned = false
 image = "kpi.jpg"
 description = "Was sind KPI's und was haben diese mit dem Erfolg von einem Unternehmen zu tun?"
 +++
-**Was sind KPI's?**
-
 Unter KPI versteht man Key performance Indikator. Das heisst es sind die Leistungskennzahlen, die die Leistung von Aktivitäten im Unternehmen bestimmen, also ob es Erfolg oder ein Misserfolg ist. Je nach Art und Ziele des Unternehmen können diese, aber stark variieren. Man braucht also Kennzahlen, die bestimmte Abläufe und Vorgänge erfassen, diese analysiert man und verbessert diese Prozesse. Nach welchen Kriterien werden nun diese Kennzahlen aufgestellt?
 
 Für die Kriterien benutzt man das SMART Prinzip. **Specific:** Auf das Vorhaben bezogen. **Measurable:** in Zahlen messbar. **Achievable:** realistische Zahlen. **Relevant:** Ergebnisorientiert **Time-bound:** Zeitlich Gebunden. Sie müssen also leicht und schnell messbar sein und eine starke Aussagekraft haben.
