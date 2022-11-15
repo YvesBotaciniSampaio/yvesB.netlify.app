@@ -1,6 +1,6 @@
 +++
 title = "Auswertung Umfrage Plüschtierladen"
-date = "1999-12-23"
+date = "2025-12-23"
 draft = false
 pinned = false
 image = "kklickbaitt.png"
