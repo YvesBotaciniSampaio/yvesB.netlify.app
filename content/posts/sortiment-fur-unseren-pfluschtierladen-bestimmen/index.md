@@ -1,10 +1,10 @@
 +++
-title = "Sortiment für unseren Pflüschtierladen bestimmen!"
+title = "Sortiment für unseren Plüschtierladen bestimmen!"
 date = "2022-09-13"
 draft = false
 pinned = false
 image = "unsere-auswahl.png"
-description = "Ich und ein Kolleg haben ein Pflüschtierladen und so werden wir unser Sortiment bestimmen!"
+description = "Ich und ein Kolleg haben ein Plüschtierladen und so werden wir unser Sortiment bestimmen!"
 +++
 Da sich unser Plüschtierladen vor allem auf Videospielfiguren spezialisiert, wussten wir, dass es etwas schwerer werden könnte, das richtige Sortiment zu bestimmen. Das Sortiment ist aber eine der wichtigsten Sachen an einem Laden, da es das ist, was den Laden ausmacht. Nach einer Zeit überlegen fiel uns auf, dass es unendlich viele Videospielfiguren gibt, und wir entschieden uns, dass die Ware erst beim Zeitpunkt der Bestellung produziert wird. Trotzdem fanden wir ist es wichtig ein Grundsortiment zu haben. 
 
