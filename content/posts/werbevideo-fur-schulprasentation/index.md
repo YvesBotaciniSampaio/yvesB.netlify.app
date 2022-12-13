@@ -11,7 +11,7 @@ Ich und ein Kolleg hatten den Auftrag eine Präsentation über unser "Plüschtie
 
 Für das Schneiden des Videos habe ich DaVinci Resolve gebraucht. Das ist ein kostenloses Videobearbeitungsprogramm, welches sehr viele Möglichkeiten bietet und womit sogar schon Filme geschnitten wurden, und zwar keine unbekannten, sondern beispielsweise: Deadpool 2, Star Wars: Die letzten Jedi und Kingsman. 
 
-![So sieht DaVinci Resolve beim bearbeiten aus.](screenshot-63.jpg)
+![So sieht DaVinci Resolve beim Schneiden aus.](screenshot-63.jpg)
 
 Mit DaVinci Resolve hatte ich schon viele Videos für die Schule geschnitten und hatte deshalb schon Erfahrung damit. Allerdings stoss ich trotzdem ziemlich schnell auf ein Problem, nämlich wollte ich die "Hog Rider" von der Werbung mit unserem Plüschtieren ersetzen, aber die Bilder der Plüschtiere hatten alle entweder einen weissen oder einen schwarzen Hintergrund, das sah im Video nachher doof aus. Ich habe mir also ein Tutorialvideo angeschaut, wie man diese in DaVinci Resolve entfernt und es hat mich überrascht, dass man bei schwarzen Hintergründen anders vorgehen muss als mit weissen. Bei beiden muss man aber beim Effektteil von DaVinci Resolve den Effekt "Luma Keyer" geben. Bei weissen Hintergründen benutzt man danach die Einstellung "Saturation" und bei schwarzen "Luminance".
 
