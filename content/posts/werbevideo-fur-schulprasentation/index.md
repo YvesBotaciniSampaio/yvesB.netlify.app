@@ -17,7 +17,7 @@ Mit DaVinci Resolve hatte ich schon viele Videos für die Schule geschnitten und
 
 Ich wollte ausserdem, dass unsere Plüschtiere sich bewegen und so eine lebendige Wirkung haben und nicht nur dumm rumstanden. Dafür habe ich die Transform Option von "DaVinci Resolve" gebraucht. In dieser kann man die Position angeben, welche ein bestimmtes Bild in einer bestimmten Zeit vom Video haben soll. Danach musste ich nur die Position von den Plüschtieren jede paar Frames ändern und schon hatten sie eine lebendigere Wirkung. Natürlich hat das sehr lange gebraucht, aber es hat mir sehr Spass gemacht das Video zu schneiden und es hat sich, wie gar nicht zu lang angefühlt.
 
-Hoffentlich werde ich in Zukunft noch viele weitere Videos schneiden müssen, denn wie schon erwähnt macht es mir unglaublic Spass.
+Hoffentlich werde ich in Zukunft noch viele weitere Videos schneiden müssen, denn wie schon erwähnt macht es mir unglaublich Spass.
 
 Unser Werbevideo: <https://www.youtube.com/watch?v=q5LFSFCHVMU>
 
