@@ -10,7 +10,7 @@ Im Blog "Sortiment für unseren Plüschtierladen bestimmen!" habe ich mit einem 
 
 **Datenerhebung**
 
-Insgesamt hatten wir acht Möglichkeiten gehabt uns die befragten Leute sollten in der Reihenfolge ihre drei liebsten Charaktere auswählen. Wir sind also im Schulhausumhergelaufen und haben ein Paar Schüler befragt. Wir fanden die Schule ein guter Ort, um die Umfrage durchzuführen, da die Leute in der Schule eher jünger sind und so die Videospielcharaktere auch eher kennen würden. Ausserdem kennt man viele Leute in der Schule und die Chance ist grösser, dass sie auf einen eingehen, anstatt zu ignorieren.
+Insgesamt hatten wir acht Möglichkeiten gehabt und die befragten Leute sollten in der Reihenfolge ihre drei liebsten Charaktere auswählen. Wir sind also im Schulhaus umhergelaufen und haben ein Paar Schüler befragt. Wir fanden die Schule ein guter Ort, um die Umfrage durchzuführen, da die Leute in der Schule eher jünger sind und so die Videospielcharaktere auch eher kennen würden. Ausserdem kennt man viele Leute in der Schule und die Chance ist grösser, dass sie auf einen eingehen, anstatt zu ignorieren.
 
 **Datenanalyse**
 
@@ -22,9 +22,9 @@ Der Hogrider bekannt von "Clash of Clans" und "Clash Royale" ist also der Gewinn
 
 ![](diagramm-pluschtiere.png)
 
-Mit 22% hat der Hogrider mehr als ein Fünftel der Punkte und war also sehr stark unterwegs. Mario und das Lama haben auch sehr stark abgeschnitten und haben gast gleicht viel Prozent. Mario mit 18% und das Lama nur ganz knapp dahinter mit 17%.
+Mit 22% hat der Hogrider mehr als ein Fünftel der Punkte und war also sehr stark unterwegs. Mario und das Lama haben auch sehr stark abgeschnitten und haben fast gleich viel Prozent. Mario mit 18% und das Lama nur ganz knapp dahinter mit 17%.
 
-Bei jeder Bestellung von über 20 CHF haben werden wir auch ein paar gratis Kekse mitliefern, deshalb haben wir die Leute auch nach ihrer Lieblingskeksart gefragt. Dieses Mal gab es aber nur die Möglichkeit eine Keksart anzugeben. Leider konnten wir nicht so viele Stimmen sammeln, da viele sagten, dass sie sehr viele Keksarten sehr mögen, und keine Lieblingskeksart haben Folgendes kam raus:
+Bei jeder Bestellung von über 20 CHF haben werden wir auch ein paar gratis Kekse mitliefern, deshalb haben wir die Leute auch nach ihrer Lieblingskeksart gefragt. Dieses Mal gab es aber nur die Möglichkeit eine Keksart anzugeben. Leider konnten wir nicht so viele Stimmen sammeln, da viele sagten, dass sie sehr viele Keksarten sehr mögen, und keine Lieblingskeksart haben. Folgendes kam raus:
 
 ![](kekse-3.png)
 
